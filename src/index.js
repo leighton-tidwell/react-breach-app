@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter as Router } from "react-router-dom"
 
 // Component File
 import BreachContainer from './components/BreachContainer';
@@ -9,7 +10,9 @@ import "./App.css"
 
 ReactDOM.render(
   <React.StrictMode>
-    <BreachContainer />
+    <Router basename={process.env.PUBLIC_URL}>
+      <BreachContainer />
+    </Router>
   </React.StrictMode>,
   document.getElementById('root')
 );
