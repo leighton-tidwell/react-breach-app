@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-breach-app/static/css/main.afd7172b.chunk.css",
+    "main.js": "/react-breach-app/static/js/main.275e9ab0.chunk.js",
+    "main.js.map": "/react-breach-app/static/js/main.275e9ab0.chunk.js.map",
+    "runtime-main.js": "/react-breach-app/static/js/runtime-main.b07e5bb3.js",
+    "runtime-main.js.map": "/react-breach-app/static/js/runtime-main.b07e5bb3.js.map",
+    "static/js/2.ba73a2a2.chunk.js": "/react-breach-app/static/js/2.ba73a2a2.chunk.js",
+    "static/js/2.ba73a2a2.chunk.js.map": "/react-breach-app/static/js/2.ba73a2a2.chunk.js.map",
+    "index.html": "/react-breach-app/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/react-breach-app/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.ba73a2a2.chunk.js.LICENSE.txt": "/react-breach-app/static/js/2.ba73a2a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b07e5bb3.js",
+    "static/js/2.ba73a2a2.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.275e9ab0.chunk.js"
+  ]
+}
